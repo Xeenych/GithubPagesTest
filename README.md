@@ -7,3 +7,5 @@ tags: tag1 tag2 tag3
 GithubPagesTest
 
 <h1>{{ page.food }}</h1>
+
+{{site.pages}}
